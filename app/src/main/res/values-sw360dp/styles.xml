@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <dimen name="divw">125dp</dimen>
+    <dimen name="divh">110dp</dimen>
+
+    <!--for down mode  width and height-->
+    <dimen name="divdw">90dp</dimen>
+    <dimen name="divdh">70dp</dimen>
+</resources>
